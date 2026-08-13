@@ -47,7 +47,7 @@
 ---
 
 ## 🚀 ROADMAP
-https://roadmap.sh/u/sruthilayaperla
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a7d47029a252a40bafd1ed8?variant=dark" alt="roadmap.sh"/></a>
 ---
 
 
