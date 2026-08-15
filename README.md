@@ -46,6 +46,11 @@
 
 ---
 
+
+<a href="https://daily.dev/sruthilaya"><img src="https://api.daily.dev/devcards/v2/SdcyXzRlopYDjeemV8Lna.png?r=uhm" width="356" alt="Sruthi Laya's Dev Card"/></a>
+
+---
+
 ## 🚀 ROADMAP
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a7d47029a252a40bafd1ed8?variant=dark" alt="roadmap.sh"/></a>
 ---
