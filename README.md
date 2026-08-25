@@ -86,6 +86,17 @@ I'm continuously expanding my knowledge in **Machine Learning, Artificial Intell
 
 ---
 
+## 🏆 Microsoft Learn
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
+</a>
+
+</p>
+
+---
 ## 🎯 My Goal
 
 > **Transform data into insights, insights into decisions, and ideas into intelligent solutions.**
