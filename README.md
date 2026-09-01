@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm a Data & AI Enthusiast
+# 👋 Hello,Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ### 🎓 Data Analytics • 🤖 Artificial Intelligence • 🐍 Python • 📊 Power BI
 
