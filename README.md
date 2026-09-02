@@ -25,32 +25,6 @@
 📚 Currently exploring **Machine Learning & AI**
 
 ---
-
-## 🚀 Skills & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/TallyPrime-0D1117?style=for-the-badge&logoColor=005BAC" />
-<img src="https://img.shields.io/badge/Data%20Analysis-0D1117?style=for-the-badge&logoColor=4CAF50" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=FF6F00" />
-
-</div>
-
----
-
-
-<a href="https://daily.dev/sruthilaya"><img src="https://api.daily.dev/devcards/v2/SdcyXzRlopYDjeemV8Lna.png?r=uhm" width="356" alt="Sruthi Laya's Dev Card"/></a>
-
----
-
 ## 🚀 Skills & Tools
 
 ### 📊 Data Analytics
@@ -125,6 +99,9 @@ I'm continuously expanding my knowledge in **Machine Learning, Artificial Intell
 > **Transform data into insights, insights into decisions, and ideas into intelligent solutions.**
 
 <div align="center">
+---
+<a href="https://daily.dev/sruthilaya"><img src="https://api.daily.dev/devcards/v2/SdcyXzRlopYDjeemV8Lna.png?r=uhm" width="356" alt="Sruthi Laya's Dev Card"/></a>
+---
 
 ### ⭐ Let's Learn • Build • Analyze • Innovate ⭐
 
