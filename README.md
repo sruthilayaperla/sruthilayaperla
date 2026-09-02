@@ -94,12 +94,6 @@ I'm continuously expanding my knowledge in **Machine Learning, Artificial Intell
 </p>
 
 ---
-## 🎯 My Goal
-
-> **Transform data into insights, insights into decisions, and ideas into intelligent solutions.**
-
-<div align="center">
----
 <a href="https://daily.dev/sruthilaya"><img src="https://api.daily.dev/devcards/v2/SdcyXzRlopYDjeemV8Lna.png?r=uhm" width="356" alt="Sruthi Laya's Dev Card"/></a>
 ---
 
