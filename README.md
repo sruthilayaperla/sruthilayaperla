@@ -51,6 +51,29 @@
 
 ---
 
+## 🚀 Skills & Tools
+
+### 📊 Data Analytics
+Python | Pandas | NumPy | Statistics
+
+### 🗄️ Database
+SQL | MySQL
+
+### 📈 Visualization
+Power BI | Matplotlib | Seaborn
+
+### 📗 Spreadsheet
+Microsoft Excel
+
+### 🧠 Statistics
+Descriptive Statistics | Hypothesis Testing | Correlation | Regression | ANOVA
+
+### 🤖 AI / ML
+Machine Learning | Artificial Intelligence
+
+### 🛠️ Tools
+Jupyter Notebook | Git | GitHub
+---
 ## 🚀 ROADMAP
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a7d47029a252a40bafd1ed8?variant=dark" alt="roadmap.sh"/></a>
 ---
