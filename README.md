@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello,Aspiring Data Analyst | Python | SQL | Power BI | Excel
+# 👋 Hello, I AM SRUTHI LAYA PERLA  AN Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ### 🎓 Data Analytics • 🤖 Artificial Intelligence • 🐍 Python • 📊 Power BI
 
