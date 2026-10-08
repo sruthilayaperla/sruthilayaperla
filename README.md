@@ -1,102 +1,35 @@
-<div align="center">
+# Sruthi Laya Perla
 
-# 👋 Hello, I AM SRUTHI LAYA PERLA <br> Aspiring Data Analyst | Python | SQL | Power BI | Excel
+**Aspiring Data Analyst | Python | SQL | Power BI | Excel**
 
-### 🎓 Data Analytics • 🤖 Artificial Intelligence • 🐍 Python • 📊 Power BI
+## About
+I am building practical skills in data analytics while exploring Artificial Intelligence and Machine Learning.
 
-*Turning raw data into meaningful insights and building smarter solutions with AI.*
+My portfolio work includes Python/data analysis, SQL/MySQL, Power BI dashboards, Excel analysis, statistics/Pandas, and image-processing/computer-vision practice.
 
-</div>
+## Portfolio
+- [Power-BI-Data-Analytics](../Power-BI-Data-Analytics) — Power BI case studies.
+- [Excel](../Excel) — Excel analysis and reporting case studies.
+- [Python-Statistical-Pandas-Analysis](../Python-Statistical-Pandas-Analysis) — Pandas and statistical programming.
+- [corepython](../corepython) — Python, NumPy, file handling, database practice, and a case study.
+- [Image-Processing](../Image-Processing) — Matplotlib, Plotly, OpenCV, and YOLO exercises.
+- [mysql](../mysql) — SQL/data-analysis material.
 
----
+## Skills & Tools
+**Programming & Analysis:** Python, Pandas, NumPy, Statistics
 
-## 🌙 About Me
+**Database:** SQL, MySQL
 
-🎓 Passionate about **Data Analytics & Artificial Intelligence**
+**Visualization & BI:** Power BI, Matplotlib, Plotly, Seaborn, Excel
 
-📈 Skilled in transforming **raw data into meaningful insights**
+**AI/ML:** Machine Learning, Artificial Intelligence, computer-vision practice
 
-🐍 Using **Python** for automation, data analysis, and problem-solving
+**Tools:** Jupyter Notebook, Git, GitHub
 
-📊 Creating interactive **Power BI dashboards** and visualizations
+## Learning Focus
+Python + SQL + Excel → data cleaning and analysis → statistics and visualization → Power BI/business intelligence → Machine Learning/AI.
 
-💾 Working with **MySQL** for database management and data handling
+## GitHub
+This profile contains hands-on exercises and case studies representing my learning and portfolio development.
 
-📚 Currently exploring **Machine Learning & AI**
-
----
-## 🚀 Skills & Tools
-
-### 📊 Data Analytics
-Python | Pandas | NumPy | Statistics
-
-### 🗄️ Database
-SQL | MySQL
-
-### 📈 Visualization
-Power BI | Matplotlib | Seaborn
-
-### 📗 Spreadsheet
-Microsoft Excel
-
-### 🧠 Statistics
-Descriptive Statistics | Hypothesis Testing | Correlation | Regression | ANOVA
-
-### 🤖 AI / ML
-Machine Learning | Artificial Intelligence
-
-### 🛠️ Tools
-Jupyter Notebook | Git | GitHub
----
-## 🚀 ROADMAP
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a7d47029a252a40bafd1ed8?variant=dark" alt="roadmap.sh"/></a>
----
-
-
-## 📊 What I Do
-
-| 💡 Area           | 🔧 Focus                               |
-| ----------------- | -------------------------------------- |
-| 📈 Data Analytics | Data cleaning, analysis & insights     |
-| 🐍 Python         | Automation, analysis & scripting       |
-| 📊 Power BI       | Interactive dashboards & visualization |
-| 💾 MySQL          | Database management & SQL              |
-| 📗 Excel          | Data analysis & reporting              |
-| 🤖 AI / ML        | Machine learning & AI exploration      |
-| 🧾 TallyPrime     | Accounting & business data             |
-
----
-
-## 🧠 Currently Learning
-
-```text
-Machine Learning
-      ↓
-Artificial Intelligence
-      ↓
-Data-driven Applications
-      ↓
-Real-world Problem Solving
-```
-
-I'm continuously expanding my knowledge in **Machine Learning, Artificial Intelligence, data-driven solutions, and advanced analytics**.
-
----
-
-## 🏆 Microsoft Learn
-
-<p align="center">
-
-<a href="https://learn.microsoft.com/en-us/users/me/achievements#badges-section">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Achievements-5C2D91?style=for-the-badge&logo=microsoft" alt="Microsoft Learn Achievements"/>
-</a>
-
-</p>
-
----
-<a href="https://daily.dev/sruthilaya"><img src="https://api.daily.dev/devcards/v2/SdcyXzRlopYDjeemV8Lna.png?r=uhm" width="356" alt="Sruthi Laya's Dev Card"/></a>
----
-
-### ⭐ Let's Learn • Build • Analyze • Innovate ⭐
-
-</div>
+**Sruthi Laya Perla**
