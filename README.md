@@ -48,13 +48,16 @@ I enjoy turning raw data into clear insights through analysis, visualization, an
 
 | Project | What you'll find |
 |---|---|
-| [Power BI Data Analytics](https://github.com/sruthilayaperla/Power-BI-Data-Analytics) | Dashboard case studies covering sales, e-commerce/customer analysis, and data cleaning. |
+| [Power BI Data Analytics](https://github.com/sruthilayaperla/Power-BI-Data-Analytics) | Power BI case studies plus a retail dashboard implementation pack with DAX, Power Query, theme JSON, and report blueprint. |
+| [Walmart Retail Sales — Power BI Build Pack](https://github.com/sruthilayaperla/Power-BI-Data-Analytics/tree/main/projects/walmart-retail-sales) | Reusable Calendar table, explicit DAX measures, Power Query transformations, dashboard design, and KPI reconciliation steps. |
+| [Walmart Retail Sales — Python & MySQL](https://github.com/sruthilayaperla/mysql/tree/main/Walmart%20sales/retail-sales-analytics) | Python analysis pipeline, MySQL queries, data dictionary, and a reproducible dataset-validation workflow. |
 | [Excel Data Analysis](https://github.com/sruthilayaperla/Excel) | Spreadsheet case studies, reporting material, charts, and workbooks. |
 | [Python Statistical & Pandas Analysis](https://github.com/sruthilayaperla/Python-Statistical-Pandas-Analysis) | Pandas notebooks, data preparation, descriptive statistics, and Statsmodels practice. |
-| [Walmart Retail Sales Analytics](https://github.com/sruthilayaperla/mysql/tree/main/Walmart%20sales/retail-sales-analytics) | End-to-end project with Python analysis, MySQL queries, and a Power BI dashboard build guide. |
 | [Core Python](https://github.com/sruthilayaperla/corepython) | Python exercises, NumPy, file handling, database connectivity, and notebooks. |
 | [Image Processing](https://github.com/sruthilayaperla/Image-Processing) | Matplotlib, Plotly, OpenCV, and YOLO-related exercises. |
 | [SciPy](https://github.com/sruthilayaperla/SciPy) | Scientific Python notebooks and project exercises. |
+
+**Project validation:** [Power BI asset checks](https://github.com/sruthilayaperla/Power-BI-Data-Analytics/actions) · [Retail analysis checks](https://github.com/sruthilayaperla/mysql/actions)
 
 ## 📊 GitHub Snapshot
 
