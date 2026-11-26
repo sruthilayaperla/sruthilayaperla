@@ -51,7 +51,7 @@ I enjoy turning raw data into clear insights through analysis, visualization, an
 | [Power BI Data Analytics](https://github.com/sruthilayaperla/Power-BI-Data-Analytics) | Dashboard case studies covering sales, e-commerce/customer analysis, and data cleaning. |
 | [Excel Data Analysis](https://github.com/sruthilayaperla/Excel) | Spreadsheet case studies, reporting material, charts, and workbooks. |
 | [Python Statistical & Pandas Analysis](https://github.com/sruthilayaperla/Python-Statistical-Pandas-Analysis) | Pandas notebooks, data preparation, descriptive statistics, and Statsmodels practice. |
-| [MySQL Data Analysis](https://github.com/sruthilayaperla/mysql) | SQL practice, Walmart sales analysis material, and datasets. |
+| [Walmart Retail Sales Analytics](https://github.com/sruthilayaperla/mysql/tree/main/Walmart%20sales/retail-sales-analytics) | End-to-end project with Python analysis, MySQL queries, and a Power BI dashboard build guide. |
 | [Core Python](https://github.com/sruthilayaperla/corepython) | Python exercises, NumPy, file handling, database connectivity, and notebooks. |
 | [Image Processing](https://github.com/sruthilayaperla/Image-Processing) | Matplotlib, Plotly, OpenCV, and YOLO-related exercises. |
 | [SciPy](https://github.com/sruthilayaperla/SciPy) | Scientific Python notebooks and project exercises. |
